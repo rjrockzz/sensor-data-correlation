@@ -30,8 +30,6 @@ Dataset:
 The dataset for the following problem can be downloaded from
 https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#
 <br><br>
-dataset can also be found in the Repository with in the folder [UCI_HAR_Dataset](https://github.com/rjrockzz/sensor-data-correlation-xebia/tree/master/UCI_HAR_Dataset)
-<br><br>
 Human Activity Recognition database is built from the recordings of 30 volunteers wearing a smartphone on the waist. 
 <br>
 **Activities**
