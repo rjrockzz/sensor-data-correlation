@@ -32,7 +32,7 @@ Experiments were carried out with a group of 30 volunteers.The following activit
 * Laying
 <br>
 Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz.
-
+<br>
 
 [**Accelerometers**](https://en.wikipedia.org/wiki/Accelerometer) detect magnitude and direction of the proper acceleration, as a vector quantity, and can be used to sense orientation (because direction of weight changes)
 <br><br>
