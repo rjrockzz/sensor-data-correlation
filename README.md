@@ -4,10 +4,10 @@
 Classifying different human activities on the basis of the data collected from the sensors packed into our devices. <br><br>
 **DEPENDENCIES**
 * panda ==0.20.3
-* numpy
-* matplotlib
-* tensorflow
-* sklearn<br>
+* numpy ==1.18.3
+* matplotlib ==3.2.1
+* tensorflow ==2.2.0-rc3
+* sklearn ==0.22.2.post1<br>
 
 Introduction:
 -------------
@@ -63,7 +63,7 @@ The experiments have been video-recorded to label the data manually. The obtaine
 
 
 - 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
-- 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. Every row shows a 128 element vector. The same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis. 
+- 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'.The same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis. 
 - 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.<br><br> 
 **Important notes before proceeding:**
