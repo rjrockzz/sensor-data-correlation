@@ -13,12 +13,10 @@ Classifying different human activities on the basis of the data collected from t
 
 Introduction:
 -------------
-
-For every Smartphone we can find out a variety of sensors we are focusing on two of them that are Gyroscope and Accelerometer.
-<br>
-Using Sensors the data has been recorded.
-<br>
-This can be termed as a 6 class classification problem as for detecting we will be having six activities.<br>
+<br><br>
+Smart Phones today are packed with all kinds of sensors. They generate huge amount of data and sensor data generated from these devices can certainly be put to use to derive insights. In our problem study, we intend to utilize our smartphone sensor data to recognize human activities.<br> 
+In our project, we’ll primarily focus on classifying different human activities on the basis of the data collected from the sensors packed into our devices. To make our project scrupulous, we also plan to create a comparative study of different learning models.
+<br><br>
 
 -----------------------------------------------------
 Dataset Study:
