@@ -3,8 +3,6 @@
 
 Classifying different human activities on the basis of the data collected from the sensors packed into our devices. 
 
-<br><br>
-The code is written in python
 <br>
 **DEPENDENCIES**
 * panda
@@ -12,7 +10,7 @@ The code is written in python
 * matplotlib
 * tensorflow
 * sklearn
-<br><br>
+<br>
 
 Introduction:
 -------------
