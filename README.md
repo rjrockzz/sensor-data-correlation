@@ -74,3 +74,7 @@ The experiments have been video-recorded to label the data manually. The obtaine
 - The units used for the accelerations (total and body) are 'g's (gravity of earth -> 9.80665 m/seg2).
 - The gyroscope units are rad/seg.
 -------------------------------------------------------------------------------
+<br>
+**Updates report:**
+<br>
+1. [Update 1](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har1.ipynb) : Dataset import, Data cleaning and formatting.
