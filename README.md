@@ -8,11 +8,13 @@ Classifying different human activities on the basis of the data collected from t
 * matplotlib
 * tensorflow
 * sklearn<br>
+
 Introduction:
 -------------
 <br>
 Smart Phones today are packed with all kinds of sensors. They generate huge amount of data and sensor data generated from these devices can certainly be put to use to derive insights. In our problem study, we intend to utilize our smartphone sensor data to recognize human activities.<br><br> 
 In our project, we’ll primarily focus on classifying different human activities on the basis of the data collected from the sensors packed into our devices. To make our project scrupulous, we also plan to create a comparative study of different learning models.
+
 
 -----------------------------------------------------
 Dataset Study:
@@ -20,7 +22,7 @@ Dataset Study:
 
 The dataset for the following problem can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#)
 <br>
-The experiments have been carried out with a group of 30 volunteers.The following activites were classsified.<br><br>
+Experiments were carried out with a group of 30 volunteers.The following activites were classified.<br><br>
 **Activities**
 * Walking
 * Walking Upstairs
@@ -30,6 +32,7 @@ The experiments have been carried out with a group of 30 volunteers.The followin
 * Laying
 <br>
 Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz.
+
 
 [**Accelerometers**](https://en.wikipedia.org/wiki/Accelerometer) detect magnitude and direction of the proper acceleration, as a vector quantity, and can be used to sense orientation (because direction of weight changes)
 <br><br>
