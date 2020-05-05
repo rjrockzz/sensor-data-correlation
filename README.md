@@ -40,7 +40,14 @@ The experiments have been video-recorded to label the data manually. The obtaine
 
 
 * 70% of the volunteers were selected for generating the training data.<br>
-* 30% of the volunteers were selected for generating the testing data. 
+* 30% of the volunteers were selected for generating the testing data.<br><br> 
+For each record it is provided:
+======================================
 
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope. 
+- A 561-feature vector with time and frequency domain variables. 
+- Its activity label. 
+- An identifier of the subject who carried out the experiment.
 
 -------------------------------------------------------------------------------
