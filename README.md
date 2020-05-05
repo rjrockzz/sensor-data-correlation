@@ -7,9 +7,7 @@ Classifying different human activities on the basis of the data collected from t
 * numpy
 * matplotlib
 * tensorflow
-* sklearn
-<br>
-
+* sklearn<br>
 Introduction:
 -------------
 <br>
