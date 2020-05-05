@@ -21,13 +21,12 @@ Using Sensors the data has been recorded.
 This can be termed as a 6 class classification problem as for detecting we will be having six activities.<br>
 
 -----------------------------------------------------
-Dataset:
+Dataset Study:
 --------
 
 The dataset for the following problem can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#)
 <br>
-Human Activity Recognition database is built from the recordings of 30 volunteers wearing a smartphone on the waist. 
-<br><br>
+The experiments have been carried out with a group of 30 volunteers.<br><br>
 **Activities**
 * Walking
 * Walking Upstairs
@@ -35,6 +34,13 @@ Human Activity Recognition database is built from the recordings of 30 volunteer
 * Sitting
 * Standing
 * Laying
+<br>
+Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets.
+* 70% of the volunteers were selected for generating the training data.
+* 30% of the volunteers were selected for generating the testing data. 
+
+The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. <br><br>
+
 
 [**Accelerometers**](https://en.wikipedia.org/wiki/Accelerometer) detect magnitude and direction of the proper acceleration, as a vector quantity, and can be used to sense orientation (because direction of weight changes)
 <br><br>
