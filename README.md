@@ -20,7 +20,7 @@ Dataset Study:
 
 The dataset for the following problem can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#)
 <br>
-The experiments have been carried out with a group of 30 volunteers.<br><br>
+The experiments have been carried out with a group of 30 volunteers.The following activites were classsified.<br><br>
 **Activities**
 * Walking
 * Walking Upstairs
@@ -29,18 +29,17 @@ The experiments have been carried out with a group of 30 volunteers.<br><br>
 * Standing
 * Laying
 <br>
-Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets.
-
-* 70% of the volunteers were selected for generating the training data.<br>
-* 30% of the volunteers were selected for generating the testing data. 
-
-
-The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain. See 'features_info.txt' for more details. <br><br>
-
+Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz.
 
 [**Accelerometers**](https://en.wikipedia.org/wiki/Accelerometer) detect magnitude and direction of the proper acceleration, as a vector quantity, and can be used to sense orientation (because direction of weight changes)
 <br><br>
 [**GyroScope**](https://en.wikipedia.org/wiki/Gyroscope) maintains orientation along a axis so that the orientation is unaffected by tilting or rotation of the mounting, according to the conservation of angular momentum.
 <br><br>
+The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets.
+
+
+* 70% of the volunteers were selected for generating the training data.<br>
+* 30% of the volunteers were selected for generating the testing data. 
+
 
 -------------------------------------------------------------------------------
