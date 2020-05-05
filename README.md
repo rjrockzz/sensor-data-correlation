@@ -29,7 +29,7 @@ The experiments have been carried out with a group of 30 volunteers.<br><br>
 * Standing
 * Laying
 <br>
-Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets.<br>
+Using embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets.
 
 * 70% of the volunteers were selected for generating the training data.<br>
 * 30% of the volunteers were selected for generating the testing data. 
