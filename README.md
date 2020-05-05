@@ -27,8 +27,7 @@ This can be termed as a 6 class classification problem as for detecting we will 
 Dataset:
 --------
 
-The dataset for the following problem can be downloaded from
-https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#
+The dataset for the following problem can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#)
 <br><br>
 Human Activity Recognition database is built from the recordings of 30 volunteers wearing a smartphone on the waist. 
 <br>
