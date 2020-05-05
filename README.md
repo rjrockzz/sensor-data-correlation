@@ -26,9 +26,9 @@ Dataset:
 --------
 
 The dataset for the following problem can be downloaded from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip#)
-<br><br>
-Human Activity Recognition database is built from the recordings of 30 volunteers wearing a smartphone on the waist. 
 <br>
+Human Activity Recognition database is built from the recordings of 30 volunteers wearing a smartphone on the waist. 
+<br><br>
 **Activities**
 * Walking
 * Walking Upstairs
