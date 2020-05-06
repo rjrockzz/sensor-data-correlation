@@ -78,4 +78,6 @@ The experiments have been video-recorded to label the data manually. The obtaine
 
 **Updates report:**
 <br>
-1. [Update 1](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har1.ipynb) : Dataset import, Data cleaning and formatting.
+1. [Update 1](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har1.ipynb) : Dataset import and formatting.<br>
+2. [Update 2](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har2.ipynb) : Added Visualizations and plots,data cleanng.
+
