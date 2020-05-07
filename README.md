@@ -1,7 +1,7 @@
 # :star: Sensor Data : Understanding Correlations.
 ## Human Activity Recognition using mobile sensor data.
 
-Classifying different human activities on the basis of the data collected from the sensors packed into our devices. <br><br>
+Classifying different human activities on the basis of data collected from the sensors packed into our devices. <br><br>
 **DEPENDENCIES**
 * panda ==0.20.3
 * numpy ==1.18.3
