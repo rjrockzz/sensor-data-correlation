@@ -2,12 +2,6 @@
 ## Human Activity Recognition using mobile sensor data.
 
 Classifying different human activities on the basis of data collected from the sensors packed into our devices. <br><br>
-**DEPENDENCIES**
-* panda ==0.20.3
-* numpy ==1.18.3
-* matplotlib ==3.2.1
-* tensorflow ==2.2.0-rc3
-* sklearn ==0.22.2.post1<br>
 
 Introduction:
 -------------
