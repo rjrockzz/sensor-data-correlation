@@ -2,7 +2,7 @@
 ## Human Activity Recognition using mobile sensor data.
 
 Classifying different human activities on the basis of data collected from the sensors packed into our devices. <br><br>
-
+![Flask Web App for the Model](https://github.com/rjrockzz/sensor-data-correlation/blob/master/data/ui.jpg)<br><br>
 Introduction:
 -------------
 <br>
