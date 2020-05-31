@@ -3,8 +3,9 @@
 
 Classifying different human activities on the basis of data collected from the sensors packed into our devices. <br><br>
 <p align="center">
-![Flask Web App for the Model](https://github.com/rjrockzz/sensor-data-correlation/blob/master/data/ui.jpg)
-</p><br><br>
+  <img width="600" height="200" src="https://github.com/rjrockzz/sensor-data-correlation/blob/master/data/ui.jpg">
+</p>
+<br><br>
 Introduction:
 -------------
 <br>
