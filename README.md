@@ -3,7 +3,7 @@
 
 Classifying different human activities on the basis of data collected from the sensors packed into our devices. <br><br>
 <p align="center">
-  <img width="600" height="200" src="https://github.com/rjrockzz/sensor-data-correlation/blob/master/data/ui.jpg">
+  <img width="500" height="500" src="https://github.com/rjrockzz/sensor-data-correlation/blob/master/data/ui.jpg">
 </p>
 <br><br>
 Introduction:
