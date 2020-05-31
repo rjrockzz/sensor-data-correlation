@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<style>
+form {
+    margin: auto;
+    width: 35%;
+}
+.result {
+    margin: auto;
+    width: 35%;
+    border: 2px solid #000000;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+body {
+  background: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg"); 
+}
+</style>
+<head>
+    <title>Sensor Data Correlations</title>
+</head>
+<body>
+<form action="{{ url_for('main') }}" method="POST" align="center">
+    <fieldset>
+        <legend>Input values:</legend>
+        Generate Sample Space!
+        <br>
+        <br>
+        <input type="submit">
+    </fieldset>
+</form>
+<br>
+<div class="result" align="center">
+        <br> Human Activity Classified as : 
+           <p style="font-size:30px">{{ result }}</p>
+</div>
+<div>
+  <img src="https://developers.google.com/web/updates/images/2017/09/sensors/orientation.gif" alt="Sensors" class="center">
+</div  
+</body>
+</html>
