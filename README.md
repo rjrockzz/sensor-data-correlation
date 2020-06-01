@@ -82,5 +82,5 @@ The experiments have been video-recorded to label the data manually. The obtaine
 3. [Update 3](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har3.ipynb) : Dimensionality Reduction using [Uniform Manifold Approximation and Projection (UMAP).](https://github.com/lmcinnes/umap)
 4. [Update 4](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har4.ipynb) : Applied ML models for a comparative study.
 5. [Update 5](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har5.ipynb) : Model Comparison and Data Preparation for Applying LSTMs.
-6. [Update 6](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har6.ipynb) : Tuning HyperParameters using [Hyperas](https://github.com/maxpumperla/hyperas/commits?author=maxpumperla) and using the best parameters for LSTMs.
+6. [Update 6](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har6.ipynb) : Tuning HyperParameters using [Hyperas](https://github.com/maxpumperla/hyperas) and using the best parameters for LSTMs.
 7. [Update 7 : Final](https://github.com/rjrockzz/sensor-data-correlation/blob/master/Daily%20Update/har7.ipynb) : Deployed the model using Pickle and Created a small Flask app for the project.
